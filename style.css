@@ -29,7 +29,7 @@ li a:hover:not(.active) {
       font-family: Arial, Helvetica, sans-serif;
   }
   
-#sena{
+.sena{
     background-color: aliceblue;
 
 }
@@ -37,4 +37,15 @@ li a:hover:not(.active) {
 .sena{
     position:absolute;
     
+}
+.shooy{
+    position: absolute;
+    width: 200px;
+    position: relative;
+    top: -150px;
+    
+    font-family: 'Secular One', sans-serif;
+}
+.opacidad{
+    opacity: 0.6;
 }
