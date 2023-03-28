@@ -49,3 +49,6 @@ li a:hover:not(.active) {
 .opacidad{
     opacity: 0.6;
 }
+.historia{
+    font-family: 'Black Han Sans', sans-serif;
+}
